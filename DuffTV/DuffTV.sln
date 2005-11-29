@@ -1,0 +1,69 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DuffTV", "DuffTV\DuffTV.csproj", "{38B76B16-7A04-4198-AF8C-4C37EEE2BD32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TvGuideBackend", "TvGuideBackend\TvGuideBackend.csproj", "{D2D27410-D58C-4DCC-B636-D016697CF776}"
+EndProject
+Project("{B900F1C2-3D47-4FEC-85B3-04AAF18C3634}") = "DuffTV_DeployCAB", "DuffTV_DeployCAB\DuffTV_DeployCAB.vddproj", "{771FFE49-0CDD-4F62-AE4A-5E73DD8BB1F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Configurator", "Configurator\Configurator.csproj", "{D5B18DBC-41BD-43BA-89C8-1D370A8A0B25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OwnerDrawnListFWProject", "ownerdrawnlist\OwnerDrawnListFWProject.csproj", "{B076B67B-4DA8-4F71-A396-EBAC5E78B8D1}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 6
+		SccLocalPath0 = .
+		CanCheckoutShared = true
+		SccProjectUniqueName1 = Configurator\\Configurator.csproj
+		SccLocalPath1 = .
+		CanCheckoutShared = true
+		SccProjectFilePathRelativizedFromConnection1 = Configurator\\
+		SccProjectUniqueName2 = DuffTV\\DuffTV.csproj
+		SccLocalPath2 = .
+		CanCheckoutShared = true
+		SccProjectFilePathRelativizedFromConnection2 = DuffTV\\
+		SccProjectUniqueName3 = DuffTV_DeployCAB\\DuffTV_DeployCAB.vddproj
+		SccLocalPath3 = .
+		CanCheckoutShared = true
+		SccProjectFilePathRelativizedFromConnection3 = DuffTV_DeployCAB\\
+		SccProjectUniqueName4 = ownerdrawnlist\\OwnerDrawnListFWProject.csproj
+		SccLocalPath4 = .
+		CanCheckoutShared = true
+		SccProjectFilePathRelativizedFromConnection4 = ownerdrawnlist\\
+		SccProjectUniqueName5 = TvGuideBackend\\TvGuideBackend.csproj
+		SccLocalPath5 = .
+		CanCheckoutShared = true
+		SccProjectFilePathRelativizedFromConnection5 = TvGuideBackend\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B76B16-7A04-4198-AF8C-4C37EEE2BD32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B76B16-7A04-4198-AF8C-4C37EEE2BD32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B76B16-7A04-4198-AF8C-4C37EEE2BD32}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{38B76B16-7A04-4198-AF8C-4C37EEE2BD32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B76B16-7A04-4198-AF8C-4C37EEE2BD32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38B76B16-7A04-4198-AF8C-4C37EEE2BD32}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{D2D27410-D58C-4DCC-B636-D016697CF776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2D27410-D58C-4DCC-B636-D016697CF776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2D27410-D58C-4DCC-B636-D016697CF776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2D27410-D58C-4DCC-B636-D016697CF776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771FFE49-0CDD-4F62-AE4A-5E73DD8BB1F8}.Debug|Any CPU.ActiveCfg = Debug
+		{771FFE49-0CDD-4F62-AE4A-5E73DD8BB1F8}.Release|Any CPU.ActiveCfg = Release
+		{D5B18DBC-41BD-43BA-89C8-1D370A8A0B25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5B18DBC-41BD-43BA-89C8-1D370A8A0B25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5B18DBC-41BD-43BA-89C8-1D370A8A0B25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5B18DBC-41BD-43BA-89C8-1D370A8A0B25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B076B67B-4DA8-4F71-A396-EBAC5E78B8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B076B67B-4DA8-4F71-A396-EBAC5E78B8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B076B67B-4DA8-4F71-A396-EBAC5E78B8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B076B67B-4DA8-4F71-A396-EBAC5E78B8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
